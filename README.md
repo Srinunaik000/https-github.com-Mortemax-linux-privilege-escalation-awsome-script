@@ -1,0 +1,1 @@
+# https-github.com-Mortemax-linux-privilege-escalation-awsome-script
